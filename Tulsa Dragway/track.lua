@@ -4,7 +4,7 @@ local LEFT = 1
 local RIGHT = -1
 
 Track = {
-        Name = "Tulsa",
+        Name = "Tulsa Dragway",
         --Track Image Info
         --Track Image must be 1280 x 720
         --Start Position on the Image x,y from Top Left
